@@ -4,4 +4,5 @@
   - https://www.bilibili.com/video/BV1HedoYGE3X
   - https://github.com/datawhalechina/happy-llm
     - Task 03: 2.1 注意力机制
+    - Task 04: 
     - 2.3 搭建一个 Transformer
